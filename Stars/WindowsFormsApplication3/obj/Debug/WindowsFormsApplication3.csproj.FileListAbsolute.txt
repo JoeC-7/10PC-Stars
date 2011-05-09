@@ -1,0 +1,8 @@
+C:\Users\Joe\Documents\Visual Studio 2008\Projects\Stars\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Joe\Documents\Visual Studio 2008\Projects\Stars\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Joe\Documents\Visual Studio 2008\Projects\Stars\WindowsFormsApplication3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2008\Projects\Stars\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Joe\Documents\Visual Studio 2008\Projects\Stars\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Joe\Documents\Visual Studio 2008\Projects\Stars\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Joe\Documents\Visual Studio 2008\Projects\Stars\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Joe\Documents\Visual Studio 2008\Projects\Stars\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
